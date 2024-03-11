@@ -1,3 +1,7 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13226310&assignment_repo_type=AssignmentRepo)
+# See here for final version of the notebook
+https://colab.research.google.com/drive/1Y6_6na4NGFfwcyI-avfClnEqCzeiKI8S?usp=sharing
+
 # Exploratory Data Analysis
 
 For this exercise, you will have a look at the raw data before doing any machine
@@ -18,22 +22,16 @@ excluding appendices. It should have the following structure:
   Include plots as appropriate.
 - Code: Add the code you've used as a separate file.
 
-Your report must contain enough detail to reproduce what you did without the
-code. If in doubt, include more detail.
-
 There is no required format for the report. You could, for example, use an
 iPython notebook. Your report should contain a lot of plots or tables to
 illustrate the data. Describe any issues you found with the data.
 
 ## Data
 
-Have a look at two different datasets. Ideally, they should have different
-characteristics so that the results of your analysis will be different. You
-could use, for example, the [Wine Quality dataset](https://archive-beta.ics.uci.edu/dataset/186/wine+quality)
-(choose the type of wine of your preference) and the
-[Primary Tumor dataset](https://www.openml.org/search?type=data&sort=runs&id=1003&status=active).
-You may also use a dataset of your choice, for example one that's relevant to
-your research.
+We will have a look at the [Wine Quality
+dataset](https://archive-beta.ics.uci.edu/dataset/186/wine+quality). Choose the
+one that corresponds to your preference in wine. You may also use a dataset of
+your choice, for example one that's relevant to your research.
 
 Choose a small number of preprocessing methods (e.g. normalizing feature values)
 and explore their application to the data. This could, for example, include
@@ -43,3 +41,14 @@ showing the distribution of feature values before and after preprocessing.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+## References
+https://scikit-learn.org/stable/modules/preprocessing.html
+https://towardsdatascience.com/a-starter-pack-to-exploratory-data-analysis-with-python-pandas-seaborn-and-scikit-learn-a77889485baf
+https://towardsdatascience.com/exploratory-data-analysis-in-python-a-step-by-step-process-d0dfa6bf94ee
+https://towardsdatascience.com/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6
+https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e
+
+
+
+
